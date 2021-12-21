@@ -1,7 +1,7 @@
 # SGHousing_Analytics_Solution
 Analytics solution for married couples to find ideal and affordable property in Singapore - Resale/BTO flat
 
-**Resale Search Tool**<br>
+**Resale/BTO Search Tool**<br>
 The right panel has many interactive filters. The whole of Singapore's resale properties can be viewed at a glance on the map. Users can filter by location, estimated budget, flat Type and room type and distance from flat to amenities. After they have filtered based on their constraints, they would have a shortlisted range of property they can look into. If they are interested, they can click on the hyperlink of the property to make the purchase
 
 **Understanding and Predicting Ideality of Flat to raise a child**<br>
